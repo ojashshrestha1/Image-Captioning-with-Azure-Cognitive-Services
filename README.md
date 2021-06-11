@@ -1,4 +1,4 @@
-# Image Analysis and Captioning Captioning 
+# Image Analysis and Captioning with Azure Cognitive Services
 
 
 If you are working on your local computer, you can follow these steps to configure your environment to work with the labs.  
